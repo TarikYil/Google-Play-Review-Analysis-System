@@ -153,3 +153,4 @@ Google Play Review Analysis System/
 - 8GB+ RAM (for ML models)
 - Internet connection (for scraping and first-time model downloads)
 #
+<img width="1909" height="906" alt="Ekran görüntüsü 2025-09-08 143540" src="https://github.com/user-attachments/assets/41b2471b-fe22-4515-9174-2cccc162ac13" />
